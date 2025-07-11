@@ -16,4 +16,4 @@
 
 平台还根据用户的观看历史和评分推荐个性化的影片资源，让每一位用户都能发现更多符合自己口味的内容。我们鼓励用户进行评分、评论和分享，与其他影迷共同发现更多精彩内容。
 
-<span style="display:none;">[Canonical link]( )</span>
+<span style="display:none;">[Canonical link]( https://github.com/fkt20250711/fkt13)</span>
